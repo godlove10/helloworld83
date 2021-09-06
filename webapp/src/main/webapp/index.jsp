@@ -1,4 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project Godlove !!   </h1>
-<h2> Data Service Group is your learning partner </h2>
-<h2> Glad to see you here </h2>
-<h1> I cannot wait to see myself receiving those huge paychecks! So Lord help me!</h1>
+<h1> Hello Mocktar, we are all working very hard to get this six figures </h1>
+<h2> God will answer our prayers as we shall soon be DevOps Engineers! </h2>
+<h2> Let's continue to work hard brother </h1>
